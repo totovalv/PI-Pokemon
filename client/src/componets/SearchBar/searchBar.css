@@ -1,0 +1,49 @@
+.positionSb{
+    display: flex;
+    justify-content: end;
+}
+.searchBar{
+    margin-top: 7px;
+    border: rgba(255, 255, 255, 0.61) 2px solid;
+    height: 25px;
+    border-right: none;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    outline: none;
+    width: 150px;
+    font-size: 20px;
+    margin-left: 10px;
+    background-color: rgba(240, 240, 243, 0);
+    color: rgb(250, 249, 249);
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.buttonSb{
+    margin-top: 7px;
+    margin-bottom: 8px;
+    border: rgba(255, 255, 255, 0.61) 2px solid;
+    border-left: none;
+    border-bottom-right-radius: 12px;
+    border-top-right-radius: 12px;
+    background-color: rgba(200, 201, 194, 0);
+    font-size: 20px;
+    color: rgb(250, 249, 249);
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.buttonSb:hover{
+    font-size: 23px;
+    cursor: pointer;
+}
+
+.buttonSb:active{
+    border: 1px solid rgb(49, 207, 28);
+    border-left: none;
+}

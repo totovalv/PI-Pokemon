@@ -1,0 +1,117 @@
+.containDetail {
+    border: ridge rgb(153, 151, 151) 5px;
+    margin: 5% 15% 5% 15%;
+    background-color: rgba(52, 52, 59, 0.5);
+    border-radius: 100px;
+    color: white;
+    box-shadow: 10px 10px 90px 70px rgb(7, 7, 7);
+}
+
+.backDetail {
+    border: solid black 2px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-image: url("https://wallpaper.dog/large/5485280.png");
+}
+
+.positionImg {
+    display: flex;
+    justify-content: start;
+    margin-left: 9%;
+    margin-bottom: 30%;
+}
+
+.positionDetail {
+    margin-left: 65%;
+    margin-right: 0;
+    margin-top: -620px;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 100px;
+    border: ridge rgb(10, 10, 10) 5px;
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/797/896/935/pokemon-dark-red-white-circles-textures-pokemon-simple-design-selfmade-nineties-anime-pokemon-hd-art-wallpaper-preview.jpg");
+    background-size: 270%;
+}
+
+.textDetail {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(12, 12, 12);
+    display: flex;
+    text-align: start;
+    border-radius: 8px;
+    background-color: rgba(255, 251, 251, 0);
+    width: 120px;
+    border: 1px solid rgb(131, 4, 4);
+    border-top: none;
+    border-left: none;
+    margin-top: 26px;
+    margin-bottom: 35px;
+}
+
+.textDetail2{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(12, 12, 12);
+    display: flex;
+    text-align: start;
+    border-radius: 8px;
+    background-color: rgba(255, 251, 251, 0);
+    width: 180px;
+    border: 1px solid rgb(131, 4, 4);
+    border-top: none;
+    border-left: none;
+    margin-top: 26px;
+    margin-bottom: 35px;
+}
+
+
+
+.textDetail:hover{
+    box-shadow: 8px 5px 30px 5px rgb(131, 4, 4);
+    cursor: pointer;
+}
+
+.textDetail2:hover{
+    box-shadow: 8px 5px 30px 5px rgb(131, 4, 4);
+    cursor: pointer;
+}
+
+.namePokemon {
+    padding-right: 200px;
+    padding-left: 200px;
+    width: 50px;
+    margin-left: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px 10px black;
+    margin-bottom: 28px;
+    margin-top: 19px;
+}
+
+.namePokemon:hover{
+    box-shadow: 8px 8px 60px 8px rgb(250, 248, 248);
+}
+
+.buttonDetail{
+ position: absolute;
+ margin-top: -215px;
+ margin-left: 828px;
+}
+
+.styleButton{
+    border-radius: 100%;
+    padding-top: 29px;
+    padding-bottom: 33px;
+    padding-left: 18px;
+    padding-right: 10px;
+    background-color: rgba(247, 247, 252, 0);
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.styleButton:hover{
+    background-color: rgb(4, 243, 4);
+    color:aliceblue
+}
+
+
+

@@ -1,0 +1,28 @@
+.positionPag{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 180%;
+    background-color: rgba(52, 54, 48, 0.459);
+    color: rgb(240, 255, 255);
+    border: 2px solid rgb(253, 253, 252);
+    border-radius: 12px;
+}
+
+.positionPag:hover{
+    background-color: rgba(52, 54, 48, 0.459);
+    border: 2px solid rgb(22, 247, 22);
+}
+
+.aPag{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.aPag:hover{
+    color: rgb(22, 247, 22);
+}

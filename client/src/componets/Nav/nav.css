@@ -1,0 +1,92 @@
+
+.positionNav{
+    display: flex;
+    justify-content: space-between;
+    border: rgba(255, 255, 255, 0.61) 2px solid;
+    background-image: url("../../img/forest_3.avif");
+    height: 50px;
+}
+
+.positionButtonCreate{
+    margin-top: 1.3%;
+}
+
+.buttonCreate{
+    margin-top: -20px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(240, 240, 243, 0);
+    color: rgb(250, 249, 249);
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: rgba(255, 255, 255, 0.61) 2px solid;
+    cursor: pointer;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.buttonCreate:hover{
+    color: black;
+    background-color: aliceblue;
+}
+
+.buttonCreate:active{
+    background-color: rgba(240, 240, 243, 0);
+    color: rgb(250, 249, 249);
+    border: rgba(255, 255, 255, 0.61) 2px solid;
+
+}
+
+.buttonSearch{
+    margin-top: -20px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(240, 240, 243, 0);
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: rgba(255, 255, 255, 0.61) 2px solid;
+    color: white;
+    cursor: pointer;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.buttonSearch:hover{
+    color: black;
+    background-color: aliceblue;
+}
+
+.buttonSearch:active{
+    background-color: rgba(240, 240, 243, 0);
+    color: rgb(250, 249, 249);
+    border: rgba(255, 255, 255, 0.61) 2px solid;
+}
+
+.buttonAbout{
+    margin-top: -20px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(240, 240, 243, 0);
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: rgba(255, 255, 255, 0.61) 2px solid;
+    color: white;
+    cursor: pointer;
+    font-size: x-large;
+    margin-right: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.buttonAbout:hover{
+    color: black;
+    background-color: aliceblue;
+}
+
+.buttonAbout:active{
+    background-color: rgba(240, 240, 243, 0);
+    color: rgb(250, 249, 249);
+    border: rgba(255, 255, 255, 0.61) 2px solid;
+}
